@@ -1,4 +1,4 @@
-# car counter and tracker
+# car counter and tracker using Yolo version '8'
 
 Real-time car counting in video using **YOLO** , **Opencv** and **Numpy** libraries
 
